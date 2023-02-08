@@ -16,7 +16,7 @@
  * Plugin Name:       SOS Modal
  * Plugin URI:        https://frydigital.com/plugins/sos-modal
  * Description:       Slide Out Search (SOS) Modal is a simple search button that activates full screen modal search functionality.
- * Version:           1.0.0
+ * Version:           1.0.2
  * Author:            Shaun Fry
  * Author URI:        https://frydigital.com
  * License:           GPL-2.0+
